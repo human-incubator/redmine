@@ -1,0 +1,25 @@
+production:
+  access_key_id: AKIAUHJGFO5Y6VXIDG2A
+  secret_access_key: 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
+  bucket: redmine-prod-db-bucket
+  folder:
+  endpoint:
+  thumb_folder:
+  import_folder:
+  region: ap-east-1
+
+development:
+  access_key_id: AKIAUHJGFO5Y6VXIDG2A
+  secret_access_key: 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
+  bucket: redmine-prod-db-bucket
+  folder:
+  endpoint:
+  thumb_folder:
+  import_folder:
+  region: ap-east-1
+
+# Uncomment this to run plugin tests with standart redmine script
+# test:
+#   access_key_id:
+#   secret_access_key:
+#   bucket:
